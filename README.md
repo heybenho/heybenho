@@ -1,8 +1,6 @@
 # Ben Ho
 
-👋 Hi, I’m Ben! I'm currently a Senior Fund Analyst for UC Berkeley's University Development and Alumni Relations department. I hold a Bachelor of Arts degree in Business Administration, with emphases in Finance and Organization & Management. With over 4 years of experience in this role, as well as other roles, I've realized my passion for coding and statistics.
-
-This is a repository that I've created to showcase my skills and projects that I've accomplished in pursuit of my passion, as well as track my progress.
+👋 Hi, I’m Ben! This is where I put my coding and data science projects to track my progress.
 
 <br>
 
