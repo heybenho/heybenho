@@ -2,9 +2,6 @@
 
 👋 Hi, I’m Ben! This is where I put my coding and data science projects to track my progress.
 
-<br>
-
-## Projects
 
 
 <!---
